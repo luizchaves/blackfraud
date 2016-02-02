@@ -1,0 +1,50 @@
+http://www.bondfaro.com.br/celular-e-smartphone--smartphone-lg-g4-h815p-desbloqueado.html
+
+<article
+data-hashigherprice="false"
+data-gridcolor="#e8e8e8"
+data-gridwidth="0"
+data-yaxislabelposition="-22"
+data-fontsizexlabels=".9em"
+data-fontsize="1.05em"
+data-showlegend="false"
+data-type="area"
+data-linewidth="2"
+data-markerradius="6"
+data-markerlinewidth="2"
+data-markerlinecolor="#fff"
+data-fontfamily="Lato,
+sans-serif"
+data-lowpricecolor="#00af6c"
+data-currency="R$"
+data-higherprice="2944.05"
+data-actualmin="1889.99"
+data-id="611078"
+class="price-history"
+id="price-history">
+</article>
+
+http://s.bondfaro.com/beagle/js/bf.pu.package.js?vs=_20160201124000
+http://jsbeautifier.org/
+
+function i(n) {
+...
+	$.get("/ajax/historicoPreco", {
+        idu: n.data("id"),
+        days: b.filterTime
+    }, function(p) {
+...
+	var m = n.data("ninetydays") ? "/ajax/historicoPreco90Dias" : "/ajax/historicoPreco";
+    $.get(m, {
+        idu: n.data("id")
+    }, function(o) {
+
+http://www.bondfaro.com.br/ajax/historicoPreco?idu=611078 #JSON
+http://www.bondfaro.com.br/ajax/historicoPreco90Dias?idu=611078 #JSON
+http://www.bondfaro.com.br/prod_unico?idu=611078
+
+http://www.bondfaro.com.br/
+http://www.bondfaro.com.br/celular-e-smartphone--smartphone-samsung-galaxy-a5-sm-a510m-desbloqueado.html
+http://www.bondfaro.com.br/prod_unico?id=77&idu=618959
+http://www.bondfaro.com.br/prod_unico?idu=618959
+http://www.bondfaro.com.br/ajax/historicoPreco?idu=618959 #JSON
