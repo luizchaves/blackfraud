@@ -40,5 +40,7 @@
   var options = {};
   var ctx = document.getElementById("lineChart").getContext("2d");
   var myLineChart = new Chart(ctx).Line(data, options);
+  $('ul#menu .active').removeClass('active');
+  $('li#menu-evolution').addClass('active');
 </script>
 {% endblock %}

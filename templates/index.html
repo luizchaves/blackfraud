@@ -37,7 +37,7 @@
 {% block js %}
 <script type="text/javascript">
   $('ul.nav-tabs a').tab('show');
-  //  $('ul.nav-tabs>li:first-child').addClass('active');
-  //  $('div.tab-content>div:first-child').addClass('active');
+  $('ul#menu .active').removeClass('active');
+  $('li#menu-home').addClass('active');
 </script>
 {% endblock %}
