@@ -1,3 +1,4 @@
+# BONDFARO (1 mes)
 http://www.bondfaro.com.br/celular-e-smartphone--smartphone-lg-g4-h815p-desbloqueado.html
 
 <article
@@ -48,3 +49,6 @@ http://www.bondfaro.com.br/celular-e-smartphone--smartphone-samsung-galaxy-a5-sm
 http://www.bondfaro.com.br/prod_unico?id=77&idu=618959
 http://www.bondfaro.com.br/prod_unico?idu=618959
 http://www.bondfaro.com.br/ajax/historicoPreco?idu=618959 #JSON
+
+#ZOOM (6 meses)
+http://www.zoom.com.br/celular/smartphone-motorola-novo-moto-g-3-geracao-colors-16gb-4g-android?__zaf_=linha-moto-g||_o:11
